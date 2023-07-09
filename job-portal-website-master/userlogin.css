@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h6 {
+    color: #010914ec;
+  }
+  
+  h6 {
+    color: rgba(15, 1, 1, 0.357);
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 6px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="email"],
+  input[type="password"],
+  input[type="text"] {
+    width: 480px;
+    height: 30px;
+    padding: 5px;
+  }
+  
+  input[type="submit"] {
+    width: 100px;
+    height: 30px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
